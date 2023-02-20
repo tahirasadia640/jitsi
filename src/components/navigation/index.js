@@ -56,12 +56,12 @@ export default function ElevateAppBar(props) {
 
             <Typography variant="h5">Connect</Typography>
 
-            {/* <a
+            <a
               href="https://github.com/knowankit/video-calling-app"
               className={styles.link}
             >
               <GitHubIcon />
-            </a> */}
+            </a>
           </Toolbar>
         </AppBar>
       </ElevationScroll>
